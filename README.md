@@ -76,8 +76,7 @@ The agent returns the optimal Q-values, state-value function, and policy.
 
 ## MONTE CARLO CONTROL ALGORITHM
 ```
-Developed By: PRAVINRAJJ G.K
-Register no: 212222240080
+
 ```
 ```py
 import numpy as np
